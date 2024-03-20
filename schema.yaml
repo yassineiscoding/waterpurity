@@ -1,0 +1,13 @@
+COLUMNS:
+  ph: float64
+  Hardness: float64
+  Solids: float64
+  Chloramines: float64
+  Sulfate: float64
+  Conductivity: float64
+  Organic_carbon: float64
+  Trihalomethanes: float64
+  Turbidity: float64
+
+TARGET_COLUMN:
+  name: "Potability"

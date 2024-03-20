@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: waterpurity
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/yassineiscoding/waterpurity
+Author: yassineiscoding
+Author-email: yassine.elbadraoui@gmail.com
+Project-URL: Bug Tracker, https://github.com/yassineiscoding/waterpurity/issues
+Description-Content-Type: text/markdown
+
+# waterpurity
+End-to-end Data Science &amp; Machine Learning Water Potability Predictor
