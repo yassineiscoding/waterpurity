@@ -35,6 +35,26 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
         raise e
 
 
+def write_yaml(data: dict, path_to_yaml: Path):
+    """
+    Write a dictionary to a YAML file.
+
+    Args:
+        data (dict): The dictionary to be written to the YAML file.
+        path_to_yaml (Path): Path to the YAML file.
+
+    Raises:
+        Exception: If any exception occurs while writing to the file.
+    """
+    try:
+        with open(path_to_yaml, 'w') as yaml_file:
+            yaml.safe_dump(data, yaml_file)
+        logger.info(f"Dictionary written to '{path_to_yaml}' successfully.")
+    except Exception as e:
+        logger.error(f"Error writing to YAML file '{path_to_yaml}': {e}")
+        raise e
+
+
 def create_directories(path_to_directories: list, verbose=True):
     """
     Create a list of directories.
