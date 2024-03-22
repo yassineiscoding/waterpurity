@@ -5,3 +5,11 @@ data_ingestion:
   source_URL: https://raw.githubusercontent.com/MainakRepositor/Datasets/master/water_potability.csv
   local_data_file: artifacts/data_ingestion/data.csv
 
+data_validation:
+  root_dir: artifacts/data_validation
+  data_filepath: artifacts/data_ingestion/data.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
+
+data_preprocessing:
+  root_dir: artifacts/data_preprocessing
+  data_filepath: artifacts/data_ingestion/data.csv

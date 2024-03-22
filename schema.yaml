@@ -8,6 +8,7 @@ COLUMNS:
   Organic_carbon: float64
   Trihalomethanes: float64
   Turbidity: float64
+  Potability: int64
 
 TARGET_COLUMN:
-  name: "Potability"
+  name: Potability
