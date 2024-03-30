@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/9e2f99f557e94a37932850c07450eeda/artifacts
+end_time: 1711136157695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e2f99f557e94a37932850c07450eeda
+run_name: resilient-mare-896
+run_uuid: 9e2f99f557e94a37932850c07450eeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711136151905
+status: 3
+tags: []
+user_id: yassi

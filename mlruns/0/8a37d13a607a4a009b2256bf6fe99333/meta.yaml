@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/8a37d13a607a4a009b2256bf6fe99333/artifacts
+end_time: 1711781102386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a37d13a607a4a009b2256bf6fe99333
+run_name: capricious-crane-493
+run_uuid: 8a37d13a607a4a009b2256bf6fe99333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711781090969
+status: 3
+tags: []
+user_id: yassi

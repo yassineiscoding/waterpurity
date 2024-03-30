@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/60f7b7a1bd4d4f9eaaac6a5f17069328/artifacts
+end_time: 1711131960012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60f7b7a1bd4d4f9eaaac6a5f17069328
+run_name: judicious-midge-829
+run_uuid: 60f7b7a1bd4d4f9eaaac6a5f17069328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711131952512
+status: 3
+tags: []
+user_id: yassi

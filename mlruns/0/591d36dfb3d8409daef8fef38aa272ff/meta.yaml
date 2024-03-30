@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/591d36dfb3d8409daef8fef38aa272ff/artifacts
+end_time: 1711135852507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 591d36dfb3d8409daef8fef38aa272ff
+run_name: vaunted-ant-480
+run_uuid: 591d36dfb3d8409daef8fef38aa272ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711135846343
+status: 3
+tags: []
+user_id: yassi

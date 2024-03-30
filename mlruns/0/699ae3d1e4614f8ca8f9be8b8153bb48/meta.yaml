@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/699ae3d1e4614f8ca8f9be8b8153bb48/artifacts
+end_time: 1711135814294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 699ae3d1e4614f8ca8f9be8b8153bb48
+run_name: hilarious-rook-11
+run_uuid: 699ae3d1e4614f8ca8f9be8b8153bb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711135804101
+status: 3
+tags: []
+user_id: yassi

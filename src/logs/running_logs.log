@@ -1,0 +1,144 @@
+[2024-03-22 18:11:43,206] [INFO] Logger configured successfully.
+[2024-03-22 18:11:48,484] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:11:48,490] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:11:48,495] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:11:48,498] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:11:48,499] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:11:48,501] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:11:50,620] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:11:59,732] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 18:13:31,579] [INFO] Logger configured successfully.
+[2024-03-22 18:13:34,686] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:13:34,690] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:13:34,693] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:13:34,694] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:13:34,695] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:13:34,695] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:13:36,147] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:13:42,299] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 18:25:48,048] [INFO] Logger configured successfully.
+[2024-03-22 18:25:51,064] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:25:51,071] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:25:51,075] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:25:51,078] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:25:51,079] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:25:51,080] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:25:52,575] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:26:00,019] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 18:26:31,046] [INFO] Logger configured successfully.
+[2024-03-22 18:26:33,795] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:26:33,798] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:26:33,800] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:26:33,802] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:26:33,802] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:26:33,802] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:26:35,220] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:26:41,591] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 18:29:19,614] [INFO] Logger configured successfully.
+[2024-03-22 18:29:22,817] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:29:22,825] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:29:22,829] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:29:22,833] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:29:22,834] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:29:22,834] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:29:26,132] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:32:39,948] [INFO] Logger configured successfully.
+[2024-03-22 18:32:43,086] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:32:43,092] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:32:43,098] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:32:43,102] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:32:43,102] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:32:43,103] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:32:45,464] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:36:08,789] [INFO] Logger configured successfully.
+[2024-03-22 18:36:12,428] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 18:36:12,432] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 18:36:12,434] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 18:36:12,436] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 18:36:12,436] [INFO] Directory created at 'artifacts'.
+[2024-03-22 18:36:12,436] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 18:36:13,717] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 18:36:20,921] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 19:26:36,166] [INFO] Logger configured successfully.
+[2024-03-22 19:29:56,789] [INFO] Logger configured successfully.
+[2024-03-22 19:30:00,706] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 19:30:00,716] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 19:30:00,722] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 19:30:00,727] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 19:30:00,728] [INFO] Directory created at 'artifacts'.
+[2024-03-22 19:30:00,728] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 19:30:04,201] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 19:30:14,302] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 19:30:41,981] [INFO] Logger configured successfully.
+[2024-03-22 19:30:44,900] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 19:30:44,904] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 19:30:44,906] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 19:30:44,909] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 19:30:44,909] [INFO] Directory created at 'artifacts'.
+[2024-03-22 19:30:44,910] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 19:30:46,397] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 19:30:52,513] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-22 19:46:06,946] [INFO] Logger configured successfully.
+[2024-03-22 19:46:09,839] [INFO] ============= Starting Model Evaluation stage ==============
+[2024-03-22 19:46:09,842] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-22 19:46:09,844] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-22 19:46:09,846] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-22 19:46:09,846] [INFO] Directory created at 'artifacts'.
+[2024-03-22 19:46:09,848] [INFO] Directory created at 'artifacts/model_evaluation'.
+[2024-03-22 19:46:12,752] [INFO] JSON file saved at 'artifacts\model_evaluation\metrics.json'.
+[2024-03-22 19:54:39,099] [INFO] ======= Model Evaluation stage completed successfully ======
+[2024-03-30 06:39:32,308] [INFO] Logger configured successfully.
+[2024-03-30 06:39:32,643] [INFO] ============= Starting Data Ingestion stage ==============
+[2024-03-30 06:39:32,656] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-30 06:39:32,662] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-30 06:39:32,666] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-30 06:39:32,667] [INFO] Directory created at 'artifacts'.
+[2024-03-30 06:39:32,668] [INFO] Directory created at 'artifacts/data_ingestion'.
+[2024-03-30 06:39:32,668] [INFO] File already exists of size: ~ 513 KB
+[2024-03-30 06:39:32,668] [INFO] ======= Data Ingestion stage completed successfully ======
+[2024-03-30 06:39:39,968] [INFO] Logger configured successfully.
+[2024-03-30 06:39:41,302] [INFO] ============= Starting Data Validation stage ==============
+[2024-03-30 06:39:41,313] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-30 06:39:41,318] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-30 06:39:41,323] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-30 06:39:41,323] [INFO] Directory created at 'artifacts'.
+[2024-03-30 06:39:41,324] [INFO] Directory created at 'artifacts/data_validation'.
+[2024-03-30 06:39:41,324] [INFO] Validating schema conformity for file: artifacts/data_ingestion/data.csv
+[2024-03-30 06:39:41,376] [INFO] Schema validation successful.
+[2024-03-30 06:39:41,377] [INFO] ======= Data Validation stage completed successfully ======
+[2024-03-30 06:39:46,266] [INFO] Logger configured successfully.
+[2024-03-30 06:39:49,257] [INFO] ============= Starting Data Preprocessing stage ==============
+[2024-03-30 06:39:49,265] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-30 06:39:49,271] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-30 06:39:49,274] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-30 06:39:49,275] [INFO] Directory created at 'artifacts'.
+[2024-03-30 06:39:49,275] [INFO] Directory created at 'artifacts/data_preprocessing'.
+[2024-03-30 06:39:49,334] [INFO] Imputed missing values with median
+[2024-03-30 06:39:49,342] [INFO] Scaled data using MinMaxScaler
+[2024-03-30 06:39:49,346] [INFO] Splitted data into training and test sets
+[2024-03-30 06:39:49,346] [INFO] Training data shape: (2457, 10)
+[2024-03-30 06:39:49,346] [INFO] Testing data shape: (819, 10)
+[2024-03-30 06:39:49,538] [INFO] Saved data to artifacts/data_preprocessing
+[2024-03-30 06:39:49,538] [INFO] ======= Data Preprocessing stage completed successfully ======
+[2024-03-30 06:39:56,038] [INFO] Logger configured successfully.
+[2024-03-30 06:39:59,335] [INFO] ============= Starting Model Trainer stage ==============
+[2024-03-30 06:39:59,342] [INFO] YAML file 'config\config.yaml' loaded successfully.
+[2024-03-30 06:39:59,347] [INFO] YAML file 'params.yaml' loaded successfully.
+[2024-03-30 06:39:59,352] [INFO] YAML file 'schema.yaml' loaded successfully.
+[2024-03-30 06:39:59,353] [INFO] Directory created at 'artifacts'.
+[2024-03-30 06:39:59,354] [INFO] Directory created at 'artifacts/model_trainer'.
+[2024-03-30 06:39:59,407] [INFO] Training LogisticRegression...
+[2024-03-30 06:39:59,599] [INFO]  - LogisticRegression Cross-Validation Accuracy: 0.61
+[2024-03-30 06:39:59,630] [INFO]  - LogisticRegression Test Accuracy: 0.61
+[2024-03-30 06:39:59,631] [INFO] Training RandomForestClassifier...
+[2024-03-30 06:40:46,757] [INFO]  - RandomForestClassifier Cross-Validation Accuracy: 0.65
+[2024-03-30 06:40:54,818] [INFO]  - RandomForestClassifier Test Accuracy: 0.66
+[2024-03-30 06:40:54,818] [INFO] Training SVM...
+[2024-03-30 06:40:58,689] [INFO]  - SVM Cross-Validation Accuracy: 0.67
+[2024-03-30 06:40:59,580] [INFO]  - SVM Test Accuracy: 0.66
+[2024-03-30 06:40:59,580] [INFO] Training GaussianNB...
+[2024-03-30 06:40:59,614] [INFO]  - GaussianNB Cross-Validation Accuracy: 0.62
+[2024-03-30 06:40:59,615] [INFO] Training AdaBoostClassifier...
+[2024-03-30 06:41:04,893] [INFO]  - AdaBoostClassifier Cross-Validation Accuracy: 0.60
+[2024-03-30 06:41:04,897] [INFO] Dictionary written to 'params.yaml' successfully.
+[2024-03-30 06:41:04,908] [INFO] ======= Model Trainer stage completed successfully ======

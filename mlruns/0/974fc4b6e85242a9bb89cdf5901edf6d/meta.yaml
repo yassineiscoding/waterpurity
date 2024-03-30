@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/974fc4b6e85242a9bb89cdf5901edf6d/artifacts
+end_time: 1711132580914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 974fc4b6e85242a9bb89cdf5901edf6d
+run_name: dashing-crow-231
+run_uuid: 974fc4b6e85242a9bb89cdf5901edf6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711132573663
+status: 3
+tags: []
+user_id: yassi

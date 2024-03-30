@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/f8626c81c97f423299b2020847561645/artifacts
+end_time: 1711132001587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8626c81c97f423299b2020847561645
+run_name: bemused-sponge-958
+run_uuid: f8626c81c97f423299b2020847561645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711131995140
+status: 3
+tags: []
+user_id: yassi

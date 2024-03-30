@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yassi/PycharmProjects/waterpurity/mlruns/0/646f3575d22f4461a81e5db1e321e364/artifacts
+end_time: 1711131119724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646f3575d22f4461a81e5db1e321e364
+run_name: unleashed-cod-425
+run_uuid: 646f3575d22f4461a81e5db1e321e364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711131110523
+status: 3
+tags: []
+user_id: yassi
